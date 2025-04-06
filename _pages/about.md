@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: pengxiang-1.jpg
+  image: pengxiang-li.jpg
   image_circular: false # crops the image to make it circular
   
 Selected_papers: true # includes a list of papers marked as "selected={true}"
