@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -384,14 +377,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-journal-paper-on-stereo-matching-is-accepted-by-t-csvt-amp-lt-p-amp-gt",
-          title: '🌟 One journal paper on Stereo Matching is accepted by T-CSVT. &amp;amp;lt;/p&amp;amp;gt;',
+            },},{id: "news-one-journal-paper-on-stereo-matching-is-accepted-by-t-csvt",
+          title: '🌟 One journal paper on Stereo Matching is accepted by T-CSVT.',
           description: "",
           section: "News",},{id: "news-one-paper-on-feedback-learning-in-vlm-is-accepted-by-neurips-2024",
           title: '🌟 One paper on Feedback learning in VLM is accepted by NeurIPS 2024....',
           description: "",
-          section: "News",},{id: "news-2025-01-one-paper-on-multimodal-agent-tuning-is-accepted-by-iclr-2025-spotlight",
-          title: '[2025.01] 🌟 One paper on Multimodal Agent Tuning is accepted by ICLR 2025...',
+          section: "News",},{id: "news-one-paper-on-multimodal-agent-tuning-is-accepted-by-iclr-2025-spotlight",
+          title: '🌟 One paper on Multimodal Agent Tuning is accepted by ICLR 2025 Spotlight....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
