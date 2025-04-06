@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🌟 One journal paper on Stereo Matching is accepted by T-CSVT. </p>
+🌟 One journal paper on Stereo Matching is accepted by T-CSVT.
