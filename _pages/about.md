@@ -2,17 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
 
 profile:
   align: right
-  image: pengxiang.jpg
+  image: pengxiang-1.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  
 Selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: false # includes social icons at the bottom of the page
 
@@ -24,7 +20,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 I am a second-year PhD student in Beijing Institute of Technology(BIT), advised by <a href="https://wu-yuwei-bit.github.io/" target="_blank">Dr. Yuwei Wu</a> and <a
                       href="https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en/" target="_blank">Dr. Yunde
