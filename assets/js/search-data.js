@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-one-journal-paper-on-stereo-matching-is-accepted-by-t-csvt-amp-lt-p-amp-gt",
+          title: '🌟 One journal paper on Stereo Matching is accepted by T-CSVT. &amp;amp;lt;/p&amp;amp;gt;',
           description: "",
           section: "News",},{id: "news-one-paper-on-feedback-learning-in-vlm-is-accepted-by-neurips-2024",
           title: '🌟 One paper on Feedback learning in VLM is accepted by NeurIPS 2024....',
