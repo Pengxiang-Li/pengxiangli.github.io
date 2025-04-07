@@ -8,7 +8,7 @@ profile:
   image: pengxiang-li.jpg
   image_circular: false # crops the image to make it circular
 
-Selected_papers: false # includes a list of papers marked as "selected={true}"
+Selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: false # includes social icons at the bottom of the page
 
 announcements:
